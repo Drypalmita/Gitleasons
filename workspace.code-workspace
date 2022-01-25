@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\visual studio code\\snake"
+		},
+		{
+			"name": "pygame",
+			"path": "..\\..\\snake\\pygame"
+		},
+		{
+			"name": "Gitleasons",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
